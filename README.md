@@ -1,2 +1,0 @@
-# ADA-lab
-ADA LAB 2021
